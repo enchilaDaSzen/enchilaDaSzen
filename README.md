@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Sanchez-Rivas @enchilaDaSzen
-- 👀 I’m interested in measuring rainfall 
+- 👀 I’m interested in hydrological and meteorological applications of radar data
 - 🌱 I’m currently a PhD student at the University of Bristol
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently working on a Python library that process raw-polarimetrc radar data to generate quantitative precipitation estimates
 - 📫 How to reach me ...
 
 <!---
