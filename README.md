@@ -10,7 +10,7 @@ enchilaDaSzen/enchilaDaSzen is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-```javascript
+```html
 \\ <span id="badgeCont111"><script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont111&rid=AAV-5555-2021"></script></span>
 ```
 
