@@ -11,6 +11,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ```html
-\\ <script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont111&rid=AAV-5555-2021"></script></span>
+\\ <script type="text/javascript" src="https://publons.com/mashlets?el=badgeCont111&rid=AAV-5555-2021"></script>
 ```
 
