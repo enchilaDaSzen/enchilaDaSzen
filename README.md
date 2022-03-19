@@ -11,4 +11,3 @@ You can click the Preview link to take a look at your changes.
 --->
 <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/enchiladaszen?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/enchiladaszen?style=social">
-https://img.shields.io/twitter/follow/enchiladaszen?style=social
