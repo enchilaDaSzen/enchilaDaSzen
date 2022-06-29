@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Daniel Sanchez-Rivas @enchilaDaSzen
-- 👀 I’m interested in hydrological and meteorological applications of radar data
-- 🌱 I’m currently a PhD candidate at the University of Bristol
-- 💞️ I’m currently working on a Python library that enable processing raw-polarimetrc radar data to generate quantitative precipitation estimates
+- 👀 I’m interested in hydrological and meteorological applications of radar data.
+- 🎓 University of Bristol alumni - Egresado de la Universidad Nacional Autónoma de México.
+- 💞️ I’m currently working on a Python library for reading, processing and displaying polarimetrc radar data.
 - 📫 How to reach me ...
 
 
